@@ -26,38 +26,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/aarshpatel1/react-hooks.git
 
-Sure! Here's a sample `README.md` for the GitHub repository you mentioned, focusing on the use of React Hooks to create a counter and theme switcher:
-
-```markdown
-# React Hooks - Counter and Theme Changer
-
-This repository demonstrates the usage of React Hooks to create a simple counter and a theme toggle (light/dark mode) in a React application.
-
-## Features
-
-- **Counter**: A basic counter with increment, decrement, and reset functionality.
-- **Theme Switcher**: Toggle between light and dark themes using React's `useState` hook.
-
-## React Hooks Used
-
-- `useState`: Used to manage the state for the counter and theme toggler.
-- `useEffect`: (Optional, if used for side effects like saving the theme preference in localStorage).
-
-## Demo
-
-- **Counter**: Click to increment or decrement the count. Reset the counter to zero with a button.
-- **Theme Changer**: Toggle the theme between light and dark modes with a button.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/aarshpatel1/react-hooks.git
-   ```
-
 2. Navigate into the project folder:
 
    ```bash
